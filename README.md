@@ -1,6 +1,6 @@
 # Brazil Exports Analysis
 
-This project retrieves export data to Brazil from FRED (Federal Reserve Economic Data) and analyzes the top 5 states that export to Brazil each year.
+This project retrieves export data to Brazil from FRED (Federal Reserve Economic Data) and analyzes the top 5 american states that export to Brazil each year.
 
 ## Steps:
 
