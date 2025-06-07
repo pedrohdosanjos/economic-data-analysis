@@ -19,9 +19,6 @@ This project retrieves export data to Brazil from FRED (Federal Reserve Economic
    - **Top 5 Exporters by Year**: For each year, the top 5 states are plotted in subplots as a bar chart. Each bar represents a state, and the height of the bar is the export value.
    - **Top 5 Exporters of All Time**: A bar plot is generated showing the states with the highest total export value to Brazil across all years.
 
-4. **Color Scheme**:
-   - A unique color is assigned to each state based on the **tab20** colormap to ensure a distinct color for each state.
-
 ## Requirements:
 
 - pandas
